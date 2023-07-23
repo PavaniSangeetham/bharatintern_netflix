@@ -1,0 +1,132 @@
+body{
+    padding: 0px;
+    margin:0px;
+}
+.img{   
+    width:1510px;
+    height:700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background:radial-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.4)) ,url("http://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY.jpg");
+}
+.net{
+    width: 200px;
+    height: 90px;
+    margin-left: 100px;
+    /* margin-top: 20px; */
+}
+.btn{
+    color:white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-right: 125px;
+    position:absolute;
+    top:20px;
+    right:16px;
+    background-color:red;
+    width: 90px;
+    height: 35px;
+    border-radius: 7px;
+    border: none;
+}
+.but{
+    color: white;
+    width:200px;
+    height:45px;
+    background-color:rgba(255, 0, 0, 0.7);
+    border-radius: 5px;
+    font-size: 20px;
+    border: none;
+}
+.id{
+    color:white;
+    font-size: 20px;   
+    position:absolute;
+    top:45px;    
+    right:150px;
+    width:200px;
+   
+}
+h1{
+   font-size: 40px; 
+    color: white;
+   
+}
+h3,h2{
+   
+     color: white;
+    
+ }
+ .input{
+    border: white;
+    color: white;
+    text-align: center;
+    width:400px;
+    height:30px;
+    padding:10px;
+    margin:10px;
+    border-width:2px ;
+    background-color:rgba(0, 0, 0, 0.5);
+ }
+ .part2{
+    color:white;
+    display:flex;
+    flex-direction: row;
+    background-color: rgb(0, 0, 0);
+     padding-top:90px;
+     padding-bottom: 80px;
+ }
+ p{
+   font-size: 30px;
+   width: 500px;
+ }
+ .part3{
+    color:white;
+    display:flex;
+    flex-direction: row;
+    background-color: black;
+}
+.part4{
+    color:white;
+    display:flex;
+    flex-direction: row;
+    background-color: black;
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.part5{   
+    margin: 0px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+}
+.part6{
+    color:white;
+    display:flex;
+    flex-direction: row;
+    background-color: rgb(0, 0, 0);
+     padding-top:90px;
+     padding-bottom: 80px;
+}
+.ques{
+    padding:10px;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.507);
+    text-align: left;
+    font-size: 25px;
+    border-radius: 1px;
+    color:white;
+    height:66px;
+    width:1000px;
+}
+.inpic{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("./image/inside.webp");
+    background-size: 400px;
+    background-position:110px 48px;
+}
